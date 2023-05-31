@@ -3,13 +3,13 @@ About Show: Nine noble families wage war against each other in order to gain con
 
 ## The analysis is breakdown of the show, which represent show rating from frist episode to last. It then further analyzed best and worst show with episodes screenshots. And Finaly season wised analysis. 
 
-##Screenshots
-####Dashboard: 
+## Screenshots
+#### Dashboard: 
 ![](Screenshots/11.PNG)
 
 ![](Screenshots/12.PNG)
 
 ![](Screenshots/13.PNG)
 
-####Tooltip:
+#### Tooltip:
 ![](Screenshots/14.PNG)
