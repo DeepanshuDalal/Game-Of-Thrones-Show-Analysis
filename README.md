@@ -5,11 +5,11 @@ About Show: Nine noble families wage war against each other in order to gain con
 
 ##Screenshots
 ####Dashboard: 
-![](Screenshots11.PNG)
+![](Screenshots/11.PNG)
 
-![](Screenshots12.PNG)
+![](Screenshots/12.PNG)
 
-![](Screenshots13.PNG)
+![](Screenshots/13.PNG)
 
 ####Tooltip:
-![](Screenshots14.PNG)
+![](Screenshots/14.PNG)
